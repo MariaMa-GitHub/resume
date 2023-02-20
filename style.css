@@ -65,6 +65,15 @@ ul {
     padding-left: 0;
 }
 
+hr {
+    display: block;
+    height: 1px;
+    background: transparent;
+    width: 100%;
+    border: none;
+    border-top: solid 1px #aaa;
+}
+
 #mainLeft {
     border-right: 1px solid lightgray;
 }
